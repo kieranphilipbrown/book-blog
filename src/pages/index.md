@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Book Blog
-image: /img/home-jumbotron.jpg
+image: /img/alberta.jpg
 heading: Book Blog
 subheading: Notes and key takeaways from interesting reads.
 mainpitch:
