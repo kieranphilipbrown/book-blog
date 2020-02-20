@@ -4,7 +4,7 @@ title: So Good They Can't Ignore You
 date: 2020-02-09T17:12:12.494Z
 description: Why skills trump passion in the quest for work you love.
 featuredpost: true
-featuredimage: /img/chemex.jpg
+featuredimage: /img/accreditation-logos-white-ca.svg
 tags:
   - cal newport
   - ''
